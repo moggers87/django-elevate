@@ -47,8 +47,8 @@ Installation
 Compatibility
 ~~~~~~~~~~~~~
 
-* Django 4.2, 5.1, and 5.2
-* Python 3.9 - 3.13
+* Django 4.2, 5.2, and 6.0
+* Python 3.10 - 3.14
 * pypy3
 
 .. inclusion-marker-do-not-remove-end
